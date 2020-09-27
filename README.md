@@ -6,6 +6,7 @@
 - Restructured the html to utilize semantic tags and remove unnecessary items.  Then CSS to match and simplify
 - Comments
 - classes to ids in aside
+- NEED TO MOVE INDEX TO ROOT AND CHANGE CSS PATH
 
 ## Your Task
 
