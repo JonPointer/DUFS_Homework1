@@ -1,4 +1,4 @@
-# 01 HTML CSS Git: Code Refactor
+# Homework 01 HTML CSS Git: Code Refactor
 
 ## Introduction
 
@@ -11,16 +11,19 @@ In this assignment we were to refractor the existing html and css code to make t
 
 ## Approach 
 
-To complete the assignment, I reviewed the structure of the code first and made semantic changes that matched the layout of the desired page.  Next, I cleaned up unnecessary sections, html errors and basic structure and flow issues.  
+To complete the assignment, I reviewed the structure of the code first and made semantic changes that matched the layout of the desired page.  Next, I cleaned up unnecessary sections, html errors, added image alt attributes, and basic corrected structure and flow issues.  
 
-Next, I moved to the CSS file and edited the selectors to match the new semantic structure in the html file.  Additionally, there were several areas where CSS sections could be combined into one section by referencing an overall group instead of each individual item.
+Next, I moved to the CSS file and edited the selectors to match the new semantic structure in the html file.  Additionally, there were several areas where CSS sections could be combined into one section by referencing an overall group instead of each individual item.  Also, I edited the flow of the CSS file to match the flow of the page.
 
-Finally, I ensured the the flow of the documents matched the flow of the page, rechecked all files for structure, syntax, further simplification, and added comments to guide future editors
+Finally, I rechecked all files for structure, syntax, further simplification, and added comments to guide future editors.
 
 ## Results
 
 ### Path to GitHub Repository
 <https://github.com/JonPointer/DUFS_Homework_01>
+
+### Path to GitHub Hosted Page
+<https://jonpointer.github.io/DUFS_Homework_01/>
 
 ### Final Webpage Image
 ![My Horiseon Homepage Solution](./Horiseon-Homepage.png)
