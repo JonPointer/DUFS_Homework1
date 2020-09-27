@@ -1,5 +1,12 @@
 # 01 HTML CSS Git: Code Refactor
 
+## Temporary Change Notes - to clean up later
+- Moved div/class to semantic for header
+- Removed unnecessary div in header
+- Restructured the html to utilize semantic tags and remove unnecessary items.  Then CSS to match and simplify
+- Comments
+- classes to ids in aside
+
 ## Your Task
 
 **Note**: Be sure to review the [Homework Guide](../04-Supplemental/Homework-Guide/README.md) and the [Good README Guide](../04-Supplemental/Good-README-Guide/README.md) before you start working on this assignment!
