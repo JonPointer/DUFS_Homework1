@@ -22,7 +22,7 @@ Finally, I rechecked all files for structure, syntax, further simplification, an
 ### Path to GitHub Repository
 <https://github.com/JonPointer/DUFS_Homework_01>
 
-### Path to GitHub Hosted Page
+### Path to GitHub Hosted Application
 <https://jonpointer.github.io/DUFS_Homework_01/>
 
 ### Final Webpage Image
